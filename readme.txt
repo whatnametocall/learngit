@@ -10,4 +10,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 
 爱迪生321123
-123456
+1234567
