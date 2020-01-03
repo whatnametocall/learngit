@@ -11,4 +11,8 @@ Creating a new branch is quick AND simple.
 
 爱迪生321123
 1234567
+<<<<<<< HEAD
 Git is a free software ...
+=======
+练习
+>>>>>>> dev
